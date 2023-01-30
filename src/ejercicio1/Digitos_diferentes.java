@@ -20,6 +20,6 @@ public class Digitos_diferentes {
 
         //imprimimos tomano de nuestra lista.
         System.out.printf("en este numero hay %d digitos diferentes: ",digits.size());
-        System.out.println(digits);
+        System.out.println(digits); 
     }
 }
